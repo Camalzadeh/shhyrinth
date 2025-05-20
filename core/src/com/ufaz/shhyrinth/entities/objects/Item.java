@@ -2,7 +2,7 @@ package com.ufaz.shhyrinth.entities.objects;
 
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
 
-public class Item extends Object{
+public abstract class Item extends Object{
     protected Image itemImage;
 
     public Image getItemImage() {

@@ -3,7 +3,7 @@ package com.ufaz.shhyrinth.entities.objects;
 import com.badlogic.gdx.math.Rectangle;
 import com.github.tommyettinger.textra.TypingLabel;
 
-public class Object {
+public abstract class Object {
 
     protected TypingLabel label;
     protected TypingLabel emptyLabel;

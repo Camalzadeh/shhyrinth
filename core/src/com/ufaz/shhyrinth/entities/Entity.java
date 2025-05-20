@@ -7,7 +7,7 @@ import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.utils.ObjectMap;
 import com.ufaz.shhyrinth.util.Direction;
 
-public class Entity {
+public abstract class Entity {
 
     protected float hp;
     protected int maxHp;
