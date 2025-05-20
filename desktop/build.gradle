@@ -4,7 +4,7 @@ targetCompatibility = 1.18
 sourceSets.main.java.srcDirs = [ "src/" ]
 sourceSets.main.resources.srcDirs = ["../assets"]
 
-mainClassName = "com.unaig.noway.DesktopLauncher"
+mainClassName = "com.ufaz.shhyrinth.DesktopLauncher"
 def osName = System.getProperty('os.name').toLowerCase(Locale.ROOT)
 project.ext.assetsDir = new File("../assets")
 
@@ -64,7 +64,7 @@ runtime {
     jpackage {
         //jpackageHome = '/usr/lib/jvm/open-jdk'
         mainJar = dist.archiveFileName.get()
-        imageName = "No Way Labyrinth"
+        imageName = "Shhyrinth"
         if (osName.contains('windows')) {
             imageOptions = ["--icon", file("../icons/icon.ico")]
         } else if (osName.contains('linux')) {

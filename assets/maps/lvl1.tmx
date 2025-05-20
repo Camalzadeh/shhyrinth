@@ -3,8 +3,8 @@
  <editorsettings>
   <export target="lvl1..tmx" format="tmx"/>
  </editorsettings>
- <tileset firstgid="1" name="NoWayLabyrinth" tilewidth="16" tileheight="16" tilecount="252" columns="14">
-  <image source="NoWayLabyrinth.png" width="224" height="288"/>
+ <tileset firstgid="1" name="Shhyrinth" tilewidth="16" tileheight="16" tilecount="252" columns="14">
+  <image source="Shhyrinth.png" width="224" height="288"/>
   <tile id="234" type="fire">
    <animation>
     <frame tileid="234" duration="100"/>

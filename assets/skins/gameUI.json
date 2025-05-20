@@ -1111,6 +1111,6 @@
 ],
 "backgroundColor": null,
 "skinPath": "skins/main-skin.json",
-"packageString": "com.unaig.noway",
-"classString": "NoWayLabyrinth"
+"packageString": "com.ufaz.shhyrinth",
+"classString": "Shhyrinth"
 }
