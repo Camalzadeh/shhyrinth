@@ -120,12 +120,6 @@ shhyrinth/
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add GIFs or PNGs here showing gameplay)*
-
----
-
 ## 🤝 Contribution
 
 You're welcome to contribute! Ways to help:
